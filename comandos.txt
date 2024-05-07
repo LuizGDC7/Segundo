@@ -1,0 +1,3 @@
+git init / Inicia o git para novos projetos 
+git status / Fala quais itens estão prontos para serem commitados e quais não
+git commit -a -m / -a -> vai commitar todos os tipos de itens para um único commit só ; -m Adiciona uma mensagem falando sobre o que o commit é

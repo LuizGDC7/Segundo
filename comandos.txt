@@ -1,3 +1,7 @@
 git init / Inicia o git para novos projetos 
 git status / Fala quais itens estão prontos para serem commitados e quais não
 git commit -a -m / -a -> vai commitar todos os tipos de itens para um único commit só ; -m Adiciona uma mensagem falando sobre o que o commit é
+git push / Adiciona a atualização do código ao servidor do git, mas não a atualiza ainda
+git push --set-upstream origin nome / basicamente, cria um branch alternativo e já vai adicionando coisas nele
+git merge nome / vai juntar o nome com o branch atual, em outras palavras, atualizar ele
+git pull / trás o conteúdo mais recente para o diretório atual

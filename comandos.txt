@@ -5,3 +5,6 @@ git push / Adiciona a atualização do código ao servidor do git, mas não a at
 git push --set-upstream origin nome / basicamente, cria um branch alternativo e já vai adicionando coisas nele
 git merge nome / vai juntar o nome com o branch atual, em outras palavras, atualizar ele
 git pull / trás o conteúdo mais recente para o diretório atual
+git checkout nome / troca de branch para o nome especificado 
+git branch / informa os nomes dos branches e o que está sendo atualmente trabalhado
+git clean -f / remove arquivos que não entraram no fluxo ao usar o comando git add
